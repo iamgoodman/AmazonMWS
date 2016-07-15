@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/aps-peter/Desktop/Git/AmazonMWS/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aps-peter/Desktop/Git/AmazonMWS/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aps-peter/Desktop/Git/AmazonMWS/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aps-peter/Desktop/Git/AmazonMWS/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aps-peter/Desktop/Git/AmazonMWS/MWSClientJavaRuntime-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aps-peter/Desktop/Git/AmazonMWS/MWSProducts_2011-10-01_v2016-06-01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
